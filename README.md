@@ -40,4 +40,4 @@ Show what the dashboard looks like.
 
 Example:
 - Revenue Overview (https://github.com/username/repo/assets/image.png)
-- Sales by Region (https://github.com/username/repo/assets/image.png)
+- Sales by Region (https://github.com/2300031146/sales-dashboard/blob/main/Screenshot%202026-05-05%20133152.png)
