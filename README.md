@@ -14,7 +14,7 @@ The Sales Dashboard helps teams track KPIs, identify trends, and make data-drive
 ## Data Source
 Source: Sales Database & Market Observations.
 
-Data includes 500+ sales records across 20+ regions, including details on their location, revenue, pipeline, conversion rates, and seasonal trends for each month.
+Data includes 5000+ sales records across 20+ regions, including details on their location, revenue, pipeline, conversion rates, and seasonal trends for each month.
 
 ## Features / Highlights
 The best dashboard explanation format.
